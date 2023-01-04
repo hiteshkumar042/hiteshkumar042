@@ -1,8 +1,6 @@
 ## Hey 👋, I'm Hitesh Kumar!<br>
 
 ### 🔭 I’m currently working with HTML, CSS, Linux, .NET C#, Shell Scripting.<br>🌱 I’m currently learning .Net Full Stack Development at BridgeLabz Solutions Pvt. Ltd. .<br>👨🏻‍💻   Most of my projects are available on GitHub.<br>👾   Fun fact: Equal is Not Always Equal in JavaScript.<br>📫   How to reach me: hiteshkumar794@gmail.com<br>
-## My Absolute Favorites:<br>
-### 💻 I love exploring new tech stuffs.<br> 📰 Reading tech blogs whenever possible.<br> 🧳 Love Travelling and Listening Music.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiteshkumar042) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hiteshkumar042) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hiteshkumar042) 
