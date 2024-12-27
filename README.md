@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Hitesh Kumar!<br>
 
-### 🔭 I’m currently working with HTML, CSS, JavaScript, Angular.<br>🌱 I’m currently working as Associate Software Enginner at EProductivity Softwares. .<br>👨🏻‍💻   Most of my projects are available on GitHub.<br>👾   Fun fact: Equal is Not Always Equal in JavaScript.<br>📫   How to reach me: hiteshkumar794@gmail.com<br>
+### 🔭 I’m currently working with HTML, CSS, JavaScript, Angular.<br>🌱 I’m currently working as Associate Software Engineer at eProductivity Softwares. .<br>👨🏻‍💻   Most of my projects are available on GitHub.<br>👾   Fun fact: Equal is Not Always Equal in JavaScript.<br>📫   How to reach me: hiteshkumar794@gmail.com<br>
 ## My Absolute Favorites:<br>
 ### 💻 I love exploring new tech stuffs.<br> 📰 Reading tech blogs whenever possible.<br> 🧳 Love Travelling and Listening Music.<br>
 
